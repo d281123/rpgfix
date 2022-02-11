@@ -5,7 +5,7 @@ m.reply(wait)
    heum = await fetch(`https://api-alphabot.herokuapp.com/api/nsfw/hentai?apikey=Alphabot`)
    if (!heum) throw json
     json = await heum.buffer()
-   conn.sendButtonImg(m.chat, json, 'Wangy wangy wangy', '© R-Txzy', 'NEXT', `${usedPrefix + command}`, m)
+   conn.sendButtonImg(m.chat, json, 'Wangy wangy wangy', '© RUSHBOTZ', 'NEXT', `${usedPrefix + command}`, m)
 }
 handler.help = ['hentai']
 handler.tags = ['hentai']
