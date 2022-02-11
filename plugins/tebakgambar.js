@@ -11,7 +11,6 @@ let handler = async (m, { conn, usedPrefix }) => {
   let src = await (await fetch('https://raw.githubusercontent.com/BochilTeam/database/master/games/tebakgambar.json')).json()
   let json = src[Math.floor(Math.random() * src.length)]
   let caption = `
-  ${json.deskripsi}
 Timeout *${(timeout / 1000).toFixed(2)} detik*
 Ketik ${usedPrefix}hint untuk bantuan
 Bonus: ${poin} XP
