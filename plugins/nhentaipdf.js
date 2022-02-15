@@ -10,7 +10,7 @@ let handler = async (m, { conn, args }) => {
 }
 handler.help = ['nhpdf'].map(v => v + ' <code>')
 handler.tags = ['hentai']
-handler.command = /^(nhpdf)$/i
+handler.command = /^(nhpdf|nhentai)$/i
 handler.limit = 1
 module.exports = handler
 
