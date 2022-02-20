@@ -74,7 +74,6 @@ handler.mods = false
 handler.premium = true
 handler.group = false
 handler.private = true
-handler.limit = 50
 
 handler.admin = false
 handler.botAdmin = false
