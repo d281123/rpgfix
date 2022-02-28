@@ -41,17 +41,17 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://apikey-bear.herokuapp.com': 'buy',
+  'https://apikey-bear.herokuapp.com': 'https://youtu.be/JNuiRPRysuk',
   'https://apikey-bear2.herokuapp.com': 'buy',
   'https://apikey-bear3.herokuapp.com': 'buy',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-lolkey = 'buy'
+lolkey = 'Deffbotz'
 zekskey = 'apivinz'
-xteamkey = 'buy'
+xteamkey = '7415bc4287ad5ca8'
 leyskey = 'dappakntlll'
-bearkey = 'buy'
+bearkey = 'https://youtu.be/JNuiRPRysuk'
 
 //xteam        MIMINETBOT
 namaig = 'https://instagram.com/dhani.2811'
