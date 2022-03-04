@@ -251,7 +251,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┗━ꕥ
 ┏━ꕥ
 ┃✾ Recode by Dhani
-┃✾ Github Name : d281123
+┃✾ Rushbotz V2 : wa.me/6287743313291
 ┃✾ Run bot : Heroku
 ┗━━━━━━━━⬣`.trim(),
           "buttonText": "Klik Disini",
